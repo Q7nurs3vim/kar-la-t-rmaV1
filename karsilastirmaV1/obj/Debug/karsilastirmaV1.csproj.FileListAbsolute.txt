@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\karsilastirmaV1\karsilastirmaV1\bin\Debug\karsilastirmaV1.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\karsilastirmaV1\karsilastirmaV1\bin\Debug\karsilastirmaV1.exe
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\karsilastirmaV1\karsilastirmaV1\bin\Debug\karsilastirmaV1.pdb
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\karsilastirmaV1\karsilastirmaV1\obj\Debug\karsilastirmaV1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\karsilastirmaV1\karsilastirmaV1\obj\Debug\karsilastirmaV1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\karsilastirmaV1\karsilastirmaV1\obj\Debug\karsilastirmaV1.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\karsilastirmaV1\karsilastirmaV1\obj\Debug\karsilastirmaV1.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\karsilastirmaV1\karsilastirmaV1\obj\Debug\karsilastirmaV1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\karsilastirmaV1\karsilastirmaV1\obj\Debug\karsilastirmaV1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\karsilastirmaV1\karsilastirmaV1\obj\Debug\karsilastirmaV1.exe
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\karsilastirmaV1\karsilastirmaV1\obj\Debug\karsilastirmaV1.pdb
